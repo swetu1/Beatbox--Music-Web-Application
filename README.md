@@ -1,8 +1,6 @@
 
 # Beatboxx | Music Web Application
 
-# Beatboxx | Music Web Application
-
 Welcome to **Beatboxx**, a modern and fully responsive music streaming platform! This project brings users an experience akin to Spotify, allowing them to discover, stream, and upload their favorite tracks effortlessly. Built with Next.js 13, React, TypeScript, and Supabase, this app delivers a seamless user experience across all devices.
 
 ## Key Features
