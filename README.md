@@ -23,10 +23,6 @@ Welcome to **Beatboxx**, a modern and fully responsive music streaming platform!
 Liked songs page
 ![screenshot2](screenshot2.PNG)
 
-**Handle Subscription in my account**
-![screenshot3](screenshot5.PNG)
-![screenshot3](screenshot3.PNG)
-
 **Full Responsive**
 
 ![screenshot4](screenshot4.PNG)
